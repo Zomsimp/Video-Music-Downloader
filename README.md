@@ -1,6 +1,7 @@
 # Video-Music-Downloader
 Lưu ý trước khi dùng.
 -Bạn cần có ffmpeg để sử dụng chươn trình. Nếu bạn chưa có ffmpeg thì trong đây đã có sẵn thư mục ffmpeg.rar để bạn giải nén.
+Link drive download ffmpeg: https://drive.google.com/file/d/1lLwKgfDYqeXNc1VPtWs2AcoMpnFVxA6w/view?usp=sharing
 
 ----Các bước cần làm khi giải nén thư mục ffmpeg----
 -B1: Mở thư mục vùa giải nén và chọn Bin.
