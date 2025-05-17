@@ -25,6 +25,8 @@ Link drive download ffmpeg: https://drive.google.com/file/d/1lLwKgfDYqeXNc1VPtWs
 
 -B6: Chọn New -> Cho đường dẫn vừa lưu vào -> Ok -> Ok lần nữa.
 
+![image](https://github.com/user-attachments/assets/96494b03-1b7d-4b81-87b6-d12bdb7a3934)
+
 Khi làm đúng các bước trên là bạn có thể mở chương trình trong Dist và chạy main.exe
 Chúc bạn thành công
 
